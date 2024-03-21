@@ -1,0 +1,6 @@
+/* backup.css */
+.bigger-image {
+    width: 1000px; /* Set the desired width for the image */
+    height: auto; /* Maintain aspect ratio */
+    /* Add any other styling as needed */
+  }
